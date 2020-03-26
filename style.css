@@ -1,0 +1,14 @@
+.titre{
+position: relative;
+left:325px;
+font-weight:bold;
+}
+.rouge{
+color:red
+}
+.vert{
+color:green
+}
+.oblique{
+font-style: oblique;
+}
